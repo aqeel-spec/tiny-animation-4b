@@ -19,7 +19,7 @@ const App = () => {
   return (
     <div className='bd'>
       <pre className='para' >
-        <img src={Cntr} className="center1" ref={ref} />
+        <img src={Cntr} className="center1" ref={ref} alt=''/>
         <p>
           With the Web Animations API, we can move interactive animations<br />
           from stylesheets to JavaScript, separating presentation<br />
